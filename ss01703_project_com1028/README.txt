@@ -1,6 +1,7 @@
- - Start the appplication from the LoginScreen.class. 
-- There are already products listed on the market
+This is a shopping application
 
+- Start the appplication from the LoginScreen.class. 
+- There are already products listed on the market
 - Here are some login details:
 
 Customer login details:
